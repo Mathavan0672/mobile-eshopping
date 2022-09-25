@@ -2,9 +2,9 @@
 class DBController {
     // DBCONTROLLER CONNECTION PROPERTIES
     protected $host = "eu-cdbr-west-03.cleardb.net";
-    protected $user = "be416c17c1f4cd";
-    protected $passwd = "890de491";
-    protected $dbname = "heroku_0f90de888376e21";
+    protected $user = "be7cccb462b34c";
+    protected $passwd = "4c4f8692";
+    protected $dbname = "heroku_bdb575f979e51b3";
 
     // CONNECTION PROPERTY
     public $con = null;
